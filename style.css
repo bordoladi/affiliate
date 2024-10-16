@@ -187,14 +187,6 @@ body {
     font-weight: bold; 
 }
 
-.circle1-0, .circle2-0, .circle3-0, .circle4-0, .circle5-0, .circle6-0 {
-    background-color: gray; 
-}
-
-.circle1-1, .circle2-1, .circle3-1, .circle4-1, .circle5-1, .circle6-1 {
-    background-color: black; 
-}
-
 .circle-white {
     background-color: #f5f5f6; 
 }
@@ -211,6 +203,8 @@ body {
 .circle-green {
     background-color: #b6e8bb; 
 }
+
+
 
 .btn-order {
     padding: 7px 13px;

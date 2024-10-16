@@ -25,6 +25,15 @@ function changeImage1(imageSrc) {
 		function changeImage6(imageSrc) {
             document.getElementById('displayImage6').src = imageSrc;
 		}
+		function changeImage11(imageSrc) {
+            document.getElementById('displayImage11').src = imageSrc;
+		}
+		function changeImage12(imageSrc) {
+            document.getElementById('displayImage12').src = imageSrc;
+		}
+		function changeImage13(imageSrc) {
+            document.getElementById('displayImage13').src = imageSrc;
+		}
 
 		function filterProducts(category) {
             const cards = document.querySelectorAll('.card');
